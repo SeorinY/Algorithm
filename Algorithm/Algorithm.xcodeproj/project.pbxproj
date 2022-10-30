@@ -7,12 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		524490A128EEEDE4004F2A6F /* BubbbleSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 524490A028EEEDE4004F2A6F /* BubbbleSort.cpp */; };
 		524490A328EEEEB3004F2A6F /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 524490A228EEEEB3004F2A6F /* main.cpp */; };
-		52AA7F3128F2926800E7C459 /* SelectionSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52AA7F3028F2926800E7C459 /* SelectionSort.cpp */; };
-		52AA7F3328F2A41400E7C459 /* QuickSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52AA7F3228F2A41400E7C459 /* QuickSort.cpp */; };
-		52AA7F3628F2BC5600E7C459 /* 1427.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52AA7F3528F2BC5600E7C459 /* 1427.cpp */; };
-		52AA7F3828F2BC8500E7C459 /* 2750.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52AA7F3728F2BC8500E7C459 /* 2750.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +30,7 @@
 		52AA7F3228F2A41400E7C459 /* QuickSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = QuickSort.cpp; sourceTree = "<group>"; };
 		52AA7F3528F2BC5600E7C459 /* 1427.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1427.cpp; sourceTree = "<group>"; };
 		52AA7F3728F2BC8500E7C459 /* 2750.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2750.cpp; sourceTree = "<group>"; };
+		52EAF2C828F974B700A6F16A /* MergeSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MergeSort.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +76,7 @@
 				524490A028EEEDE4004F2A6F /* BubbbleSort.cpp */,
 				52AA7F3028F2926800E7C459 /* SelectionSort.cpp */,
 				52AA7F3228F2A41400E7C459 /* QuickSort.cpp */,
+				52EAF2C828F974B700A6F16A /* MergeSort.cpp */,
 			);
 			path = Sort;
 			sourceTree = "<group>";
@@ -152,12 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				52AA7F3128F2926800E7C459 /* SelectionSort.cpp in Sources */,
-				524490A128EEEDE4004F2A6F /* BubbbleSort.cpp in Sources */,
 				524490A328EEEEB3004F2A6F /* main.cpp in Sources */,
-				52AA7F3828F2BC8500E7C459 /* 2750.cpp in Sources */,
-				52AA7F3328F2A41400E7C459 /* QuickSort.cpp in Sources */,
-				52AA7F3628F2BC5600E7C459 /* 1427.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
