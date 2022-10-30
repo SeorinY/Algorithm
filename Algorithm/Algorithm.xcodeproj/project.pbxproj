@@ -28,6 +28,7 @@
 		524490A228EEEEB3004F2A6F /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		528872F0290E5CA8007A7808 /* 2309.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2309.cpp; sourceTree = "<group>"; };
 		528872F2290E61FB007A7808 /* 1051.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1051.cpp; sourceTree = "<group>"; };
+		528872F4290E878D007A7808 /* 1018.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1018.cpp; sourceTree = "<group>"; };
 		52AA7F3028F2926800E7C459 /* SelectionSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SelectionSort.cpp; sourceTree = "<group>"; };
 		52AA7F3228F2A41400E7C459 /* QuickSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = QuickSort.cpp; sourceTree = "<group>"; };
 		52AA7F3528F2BC5600E7C459 /* 1427.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1427.cpp; sourceTree = "<group>"; };
@@ -90,6 +91,7 @@
 				52AA7F3728F2BC8500E7C459 /* 2750.cpp */,
 				528872F0290E5CA8007A7808 /* 2309.cpp */,
 				528872F2290E61FB007A7808 /* 1051.cpp */,
+				528872F4290E878D007A7808 /* 1018.cpp */,
 			);
 			path = BAEKJOON;
 			sourceTree = "<group>";
