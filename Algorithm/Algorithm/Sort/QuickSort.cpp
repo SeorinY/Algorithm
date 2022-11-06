@@ -19,7 +19,7 @@ void quickSort(int arr[], int left, int right){
     }
     swap(arr, left, i);
     
-    quickSort(arr, left, i);
+    quickSort(arr, left, i-1);
     quickSort(arr, i+1, right);
 }
 
