@@ -34,6 +34,9 @@
 		52AA7F3528F2BC5600E7C459 /* 1427.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1427.cpp; sourceTree = "<group>"; };
 		52AA7F3728F2BC8500E7C459 /* 2750.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2750.cpp; sourceTree = "<group>"; };
 		52EAF2C828F974B700A6F16A /* MergeSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MergeSort.cpp; sourceTree = "<group>"; };
+		52FE57622917A21D00A41952 /* 15649.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 15649.cpp; sourceTree = "<group>"; };
+		52FE57652917C3F200A41952 /* 14889.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 14889.cpp; sourceTree = "<group>"; };
+		52FE57672917C71900A41952 /* 15650.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 15650.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,13 +90,40 @@
 		52AA7F3428F2A6F300E7C459 /* BAEKJOON */ = {
 			isa = PBXGroup;
 			children = (
-				52AA7F3528F2BC5600E7C459 /* 1427.cpp */,
-				52AA7F3728F2BC8500E7C459 /* 2750.cpp */,
+				52FE57642917A22F00A41952 /* Sort */,
+				52FE57612917A1F400A41952 /* BruteForce */,
+				52FE57602917A1DE00A41952 /* Backtracking */,
+			);
+			path = BAEKJOON;
+			sourceTree = "<group>";
+		};
+		52FE57602917A1DE00A41952 /* Backtracking */ = {
+			isa = PBXGroup;
+			children = (
+				52FE57622917A21D00A41952 /* 15649.cpp */,
+				52FE57672917C71900A41952 /* 15650.cpp */,
+				52FE57652917C3F200A41952 /* 14889.cpp */,
+			);
+			path = Backtracking;
+			sourceTree = "<group>";
+		};
+		52FE57612917A1F400A41952 /* BruteForce */ = {
+			isa = PBXGroup;
+			children = (
 				528872F0290E5CA8007A7808 /* 2309.cpp */,
 				528872F2290E61FB007A7808 /* 1051.cpp */,
 				528872F4290E878D007A7808 /* 1018.cpp */,
 			);
-			path = BAEKJOON;
+			path = BruteForce;
+			sourceTree = "<group>";
+		};
+		52FE57642917A22F00A41952 /* Sort */ = {
+			isa = PBXGroup;
+			children = (
+				52AA7F3528F2BC5600E7C459 /* 1427.cpp */,
+				52AA7F3728F2BC8500E7C459 /* 2750.cpp */,
+			);
+			path = Sort;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
