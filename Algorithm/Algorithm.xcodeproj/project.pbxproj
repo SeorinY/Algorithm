@@ -6,6 +6,10 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		529A8B502978F9730064ECBC /* 9012.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 529A8B4F2978F9730064ECBC /* 9012.cpp */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		5244909128EEE959004F2A6F /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -26,6 +30,7 @@
 		528872F0290E5CA8007A7808 /* 2309.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2309.cpp; sourceTree = "<group>"; };
 		528872F2290E61FB007A7808 /* 1051.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1051.cpp; sourceTree = "<group>"; };
 		528872F4290E878D007A7808 /* 1018.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1018.cpp; sourceTree = "<group>"; };
+		529A8B4F2978F9730064ECBC /* 9012.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 9012.cpp; sourceTree = "<group>"; };
 		52AA7F3028F2926800E7C459 /* SelectionSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SelectionSort.cpp; sourceTree = "<group>"; };
 		52AA7F3228F2A41400E7C459 /* QuickSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = QuickSort.cpp; sourceTree = "<group>"; };
 		52AA7F3528F2BC5600E7C459 /* 1427.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1427.cpp; sourceTree = "<group>"; };
@@ -52,6 +57,7 @@
 			children = (
 				5220F000297526B50007CC81 /* 2557.cpp */,
 				5220F0022975B3260007CC81 /* 9093.cpp */,
+				529A8B4F2978F9730064ECBC /* 9012.cpp */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -191,6 +197,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				529A8B502978F9730064ECBC /* 9012.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

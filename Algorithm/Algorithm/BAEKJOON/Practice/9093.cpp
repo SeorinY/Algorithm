@@ -12,7 +12,7 @@ int main() {
     stack<char> converse;
     for(int i=0; i<n; i++){
         getline(cin, str);
-        str += " ";
+        str += " ";1
         for (int j=0; j<str.length(); j++) {
             if(str[j] != ' ')
                 converse.push(str[j]);
